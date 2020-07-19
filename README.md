@@ -21,7 +21,7 @@
 Тестовое задание: Frontend (Vue.js)
 Трудозатраты: 4 часа
 Дедлайн: 19 июля 2020
-[link to DEMO](http://select.khamdamov.ru/)
+[a link](http://select.khamdamov.ru/)
 ```
 
 ## Project setup
