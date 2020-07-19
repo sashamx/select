@@ -144,7 +144,7 @@ export default {
     padding: 10px 30px 0 10px;
     border: 1px #ccc solid;
     border-radius: 5px;
-    min-height: 35px;
+    min-height: 33px;
     float: left;
     width: 360px;
     position: relative;
