@@ -79,6 +79,9 @@ export default {
             let block = this.$refs.index[num]
             block.scrollIntoView({block: "nearest", behavior: "smooth"})
         }
+        if(event.keyCode === 27){
+          this.block = false
+        }
     },
     changeBlock(){
       this.block = !this.block
